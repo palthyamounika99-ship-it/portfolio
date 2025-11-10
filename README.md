@@ -1,4 +1,4 @@
-# 🌸 Hey there, I'm **Mounika!**  
+**# 🌸 Hey there, I'm **Mounika!**  
 ### A Data Scientist & SAP Consultant 🌍  
 
 ![Banner](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)
@@ -7,7 +7,7 @@
 
 ## 👋 Hello!
 I’m **Mounika Palthya**, a curious mind who loves turning **data into stories** and **processes into smart solutions.**  
-Currently working as an **SAP IBP Consultant** at *Ncore Technologies*, while wrapping up my **Master’s in Data Science** at the *University of Memphis*.  
+Currently working as an **SAP IBP Consultant** at *Ncore Technologies*, while completing my **Master’s in Data Science** at the *University of Memphis*.  
 
 I 💖 **coffee ☕**, **analytics 📊**, **automation 🤖**, and **solving complex business puzzles 🔍**.  
 I’m passionate about merging **data science and supply chain planning** — making systems smarter, faster, and more efficient.  
@@ -50,11 +50,12 @@ If you love talking about **data, supply chain planning, or analytics**, let’s
 We can chat about ideas, collaborate on projects, or share pizza 🍕 and insights 🍀.  
 
 🔗 **Find Me Here:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mounika-palthya-a91aa5229/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mounika-p-820a6336b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MounikaPalthya)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mounikap1974@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palthyamounika99@gmail.com)
 
 ---
 
 🎨 *"Great data tells a story. Smart systems make it happen."*  
 © 2025 **Mounika Palthya**
+**
